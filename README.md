@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nesguilherme
-- 👀 I’m interested in learn to program
-- 🌱 I’m currently learning the basics of programming
-- 📫 How to reach me nesguilhherme.2001@hotmail.com
+- 👋 Olá, sou o @Nesguilherme
+- 👀 Tenho interesse em programar
+- 🌱 Estou aprender o basico de programação
+- 📫 Contato nesguilherme.2001@hotmail.com
 
 <!---
 Nesguilherme/Nesguilherme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
